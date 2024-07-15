@@ -1,0 +1,24 @@
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.white{
+    background-color: white;
+    background-position: center;
+    height: 30px;
+    width: 30px;
+    font-weight: bold;
+}
+.pic{
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+.green{
+    background-color: lightgreen;
+    background-position: center;
+    height: 30px;
+    width: 30px;
+    font-weight: bold;
+}
